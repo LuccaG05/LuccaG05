@@ -8,9 +8,9 @@
 
   <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <div style="display: flex; justify-content: space-around; align-items: center; width: 80%;">
-    <div style="flex: 1; text-align: center; margin-left: 20px;">
+    <picture style="flex: 1; text-align: center; margin-left: 20px;">
       <img style="max-height: 259px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luccag05&show_icons=false&line_height=28&hide_border=false&card_width=347&include_all_commits=true&role=owner,collaborator&rank_icon=github&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Lucca's GitHub stats" />
-    </div>
+    </picture>
   </div>
 </div>
 
@@ -39,9 +39,9 @@
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <div style="display: flex; justify-content: space-around; align-items: center; width: 80%;">
-    <div style="flex: 1; text-align: center; margin-right: 20px;">
+    <picture style="flex: 1; text-align: center; margin-right: 20px;">
           <img style="max-height: 200px;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luccag05&layout=compact&langs_count=12&hide_border=false&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Lucca's Language stats" />
-    </div>
+    </picture>
  </div>
 </div>
 
