@@ -6,6 +6,7 @@
 - Atualmente focado em aprimorar minhas habilidades em linguagens de Front e Backend
 - Buscando oportunidades no mercado de trabalho
 
+<!--
   <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <div style="display: flex; justify-content: space-around; align-items: center; width: 80%;">
     <picture style="flex: 1; text-align: center; margin-left: 20px;">
@@ -13,6 +14,7 @@
     </picture>
   </div>
 </div>
+-->
 
 
 <div style="display: inline_block"><br>
@@ -29,14 +31,15 @@
 
 <h2><i>Contato</i></h2>
 <div> 
-  <a href="https://www.instagram.com/lucca__goncalves/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <!-- <a href="https://www.instagram.com/lucca__goncalves/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:luccagoncalves5.0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> -->
 </div>
 
 <br>
 <br>
 
+<!--
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <div style="display: flex; justify-content: space-around; align-items: center; width: 80%;">
     <picture style="flex: 1; text-align: center; margin-right: 20px;">
@@ -44,7 +47,7 @@
     </picture>
  </div>
 </div>
-
+-->
 
 
 <!--
